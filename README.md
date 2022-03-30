@@ -4,7 +4,11 @@
 
 ## Description
 
-In this project, I created a budget website in which users can see different greetings 
+In this project, I created a budget website in which users can see different greetings.
+
+## ScreenShot
+
+![image](https://user-images.githubusercontent.com/74814780/160781990-571d654e-c400-4e3b-9ab3-6e81150adceb.png)
 
 ## Built with
 
