@@ -1,24 +1,71 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello-Rails-Back end
 
-Things you may want to cover:
+## Description
 
-* Ruby version
+In this project, I created a budget website in which users can see different greetings.
 
-* System dependencies
+## ScreenShot
 
-* Configuration
+![image](https://user-images.githubusercontent.com/74814780/160781990-571d654e-c400-4e3b-9ab3-6e81150adceb.png)
 
-* Database creation
+## Built with
 
-* Database initialization
+- Rails
 
-* How to run the test suite
+- Rails-react
 
-* Services (job queues, cache servers, search engines, etc.)
+- HTML
 
-* Deployment instructions
+- Linters(Rubocop)
 
-* ...
+## FrontEnd
+
+https://github.com/Ugboaja-Uchechi/hello-react-front-end
+
+## Setup
+
+` Navigate to your terminal`
+
+`git clone https://github.com/Ugboaja-Uchechi/hello-rails-back-end.git`
+
+`cd hello-rails-back-end in that same terminal`
+
+`run code . to open in an IDE like VsCode`
+
+` run bundle install to couple all dependencies`
+
+Run:
+
+`rails db:create`
+
+`rails db:migrate`
+
+`rails db:seed`
+
+before running `rails s` in your console to view the website
+
+## Author
+
+👤Ugboaja-Uchechi
+
+[GitHub](https://github.com/Ugboaja-Uchechi)
+
+[LinkedIn](https://www.linkedin.com/in/stephanie-ugboaja-930a2a216/)
+
+## 🤝Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page. Show your support
+
+## Give a ⭐️ if you like this project!
+
+## Acknowledgement:
+
+The idea was gotten from the ![](https://img.shields.io/badge/Microverse-blueviolet) Microverse Figma template.
+
+## 📝 License
+
+This project is MIT licensed.
